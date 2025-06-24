@@ -59,5 +59,5 @@ The **Smart Parking Management System (SPMS)** is a cloud-native, microservice-b
 
 ## 📬 Resources
 
-- 📦 [Postman Collection](./postman_collection.json)
+- 📦 [Postman Collection](./Smart Parking.postman_collection.json)
 - 🖼️ ![Eureka Dashboard](./docs/screenshots/eureka_dashboard.png)
