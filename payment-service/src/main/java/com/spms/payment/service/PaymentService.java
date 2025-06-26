@@ -1,10 +1,3 @@
-/**
- * @author supunmadhuranga
- * @created 2025-06-16
- * @project project
- */
-
-// PaymentService.java
 package com.spms.payment.service;
 
 import com.spms.payment.dto.PaymentRequestDTO;
